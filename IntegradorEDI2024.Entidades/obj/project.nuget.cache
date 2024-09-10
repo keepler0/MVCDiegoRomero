@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcQbpBLJ6knuB/YO6bueJWlsh3UZtJ5oo0rjog2KaBd6dsHEq5n5L8CmpR/kp7xAnhoruEVLU12yYULt5FNY+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Escritorio\\Trabajo integrador DiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Entidades\\IntegradorEDI2024.Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
